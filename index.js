@@ -116,14 +116,14 @@ const startApp = () => {
         <section class="about">
           <div class="section-header">
             <h2>
-              Sobre o evento
+              Sobre a NLW
             </h2>
-            <span class="badge">AO VIVO</span>
+            <!-- <span class="badge">AO VIVO</span> -->
           </div>
 
           <p>
-            Um evento feito por e para pessoas desenvolvedoras apaixonadas por criar soluções inovadoras e compartilhar conhecimento. Vamos mergulhar nas tendências mais recentes em desenvolvimento de software, arquitetura de sistemas e tecnologias emergentes, com palestras, workshops e hackathons.
-            <br/><br/>Dias 15 a 17 de março | Das 18h às 21h | Online & Gratuito
+            A NLW trata-se de uma tecnologia que oferece um sistema de banco de dados para registro e gestão de participantes de eventos. Tendo um sistema de administração onde o criador do evento tem acesso a todos os usuários cadastrados, facilitando a gestão e interação.
+            <br/><br/>Uma tecnologia 24/7 | Online & Gratuita | Para todos os públicos.
           </p>
         </section>
 
